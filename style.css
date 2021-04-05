@@ -1,0 +1,58 @@
+
+html {
+    background: #FFF;
+    padding: 0 3%;
+    display: block;
+}
+body{
+    
+
+    max-width: 60em;
+    
+    margin: 6em auto 19em;
+    background: #D0D3D4;
+    color: #333;
+    font: 1.156em/1.3 My Gill Sans, Lato, sans-serif;
+    font-size-adjust: 0.45;
+    position: relative;
+    box-shadow: 0 0.3em 1em #000;
+    padding: 10px, 10px;
+}
+    
+.text{
+    padding-top: 10px;
+}
+hr{
+ 
+    margin: 10px;
+} 
+
+
+.vl {
+  border-left: 6px solid #2C3E50 ;
+  border-width: 30px;
+}
+.container{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+h3
+{
+    text-decoration: underline;
+    }
+
+
+table
+{
+    border: 1px solid black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #34495E;
+    }
+span{
+    width: 30px;
+}
